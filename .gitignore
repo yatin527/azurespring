@@ -14,3 +14,6 @@ target/*
 !.vscode/launch.json
 !.vscode/extensions.json
 _site/
+t1
+t2
+t3
